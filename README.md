@@ -14,3 +14,20 @@
 
 OBS.: Certifique-se antes de executar o XAMPP e startar os services Apache e MySQL.
 
+
+[ENGLISH]
+
+
+-Agenda and Automovel are SQL databases for querying the ADS_Prog_3_Projeto (21) and ADS_Prog_3_Projeto (22) projects;
+
+-mysql-connector-java-5.1.36-bin.jar is a file belonging to the ADS_Prog_3_Projeto projects;
+
+-mysql-connector-java-5.1.36-bin.jar is a standard API for independent database connectivity between the Java programming language and a wide range of SQL databases, spreadsheets, etc;
+
+-I used XAMPP's phpmyadmin to run the database locally and run and run tests on the system in the Eclipse IDE;
+
+-To make this system work on your machine, you only need an IDE like Eclipse and a local server, like XAMPP;
+
+-To install the database through Phpmyadmin, first open your browser and access http: // localhost / phpmyadmin /, after that go to the "import" tab and then click on the "choose file" button next to "search in computer "and finally run just below;
+
+NOTE: Make sure before running XAMPP and starting the Apache and MySQL services.
